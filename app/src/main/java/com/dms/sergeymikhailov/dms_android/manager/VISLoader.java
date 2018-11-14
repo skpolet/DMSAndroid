@@ -102,7 +102,7 @@ public class VISLoader extends Application {
             {
                 // m_sCurToken = new String[]{(String) token_list[0]};
 
-
+//////
 
                 //  char c = m_sCurToken.charAt(0);  // returns 'l'
                 //  char[] c_arr = m_sCurToken.toCharArray();
